@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">EmojiCents</string>
+
+    <string name="spending_limit">My spending limit is: $</string>
+    <string name="minus_amount">Subtract Amount</string>
+    <string name="plus_amount">Add Amount</string>
+    <string name="current_total">Total left to spend:\u0020 </string>
+    <string name="smiley_face">emoji face</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="dollar_sign">$</string>
+    <string name="add_to_total">Add more to my spending total:</string>
+    <string name="subtract_from_total">Subtract from my total left to spend:</string>
+    <string name="set_spending_limit">My spending limit is:</string>
+    <string name="start_here">TAP TO START</string>
+    <string name="note_reset">Note: changing the spending limit resets the app.</string>
+    <string name="remainder_percent">(%1$s%%)</string>
+    <string name="emoji_attribution">[emoji by Emoji One]</string>
+    <string name="menu_item_reset">Reset</string>
+    <string name="remainder_currency">$%1$s</string>
+
+</resources>
